@@ -1,0 +1,13 @@
+robots.txt
+admin
+adinv
+chat
+wordpress
+wordpres
+fas
+fast
+hast
+hard
+esay
+..
+/../../../etc/passwor.txt
