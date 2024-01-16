@@ -1,0 +1,17 @@
+subprocess
+socket
+os
+re
+ipaddress
+ping3 
+platform
+colorama
+netifaces
+scapy.all
+http.server 
+socketserver
+mitmproxy
+subprocess
+sys
+cv2
+pynput
